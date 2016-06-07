@@ -19,6 +19,7 @@ public class loginAction {
 		//登录后获取玩家姓名
 		String id3 = ServletActionContext.getRequest().getParameter("name");
 		String id4 = ServletActionContext.getRequest().getParameter("name");
+		String id5 = ServletActionContext.getRequest().getParameter("name");
 		
 		
 		
