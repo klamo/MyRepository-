@@ -23,6 +23,7 @@ public class loginAction {
 		String id6 = ServletActionContext.getRequest().getParameter("name");
 		String id7 = ServletActionContext.getRequest().getParameter("name");
 		String id8 = ServletActionContext.getRequest().getParameter("name");
+		String id9 = ServletActionContext.getRequest().getParameter("name");
 		
 		
 		
