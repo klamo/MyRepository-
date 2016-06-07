@@ -14,6 +14,10 @@ public class loginAction {
 		Map<String,Object> map = new HashMap<String,Object>();
 		//登录后获取玩家姓名
 		String id = ServletActionContext.getRequest().getParameter("name");
+		//登录后获取玩家姓名
+		String id2 = ServletActionContext.getRequest().getParameter("name");
+		//登录后获取玩家姓名
+		String id3 = ServletActionContext.getRequest().getParameter("name");
 		
 		
 		
